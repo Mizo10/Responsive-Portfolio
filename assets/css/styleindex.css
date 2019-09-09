@@ -28,11 +28,16 @@ float: left;
 margin-top: 15px;
 padding-top: 15px;
 }
-.about{
-    color: #777777;
-    margin-top: 40px;
-    float: right;
+.about{ 
+    color: #777777;    
 }
+.Portfolio{
+    color: #777777;
+}
+.Contact{
+    color: #777777;
+}
+
 #page-wrap {
     height:80px;
     width: 960px;
